@@ -1,2 +1,2 @@
-# MR_IBM_DS
+# Data Science Projects
 
